@@ -28,6 +28,8 @@ namespace GradingSwitch
                     Console.WriteLine("puudulik");
                     break;
                 default:
+                    Console.WriteLine("puudulik...");
+                    break;
             }
 
         }
